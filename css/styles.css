@@ -1,0 +1,44 @@
+.hobbies {
+  color: red;
+}
+
+.skills {
+  color: blue;
+}
+
+.highlight {
+  color: green;
+}
+
+.my-class {
+  margin: 15px;
+  border: 5px solid orange;
+  padding: 8px;
+  background-color: #DAF7A6;
+}
+
+.shelter p {
+  background-color: #F6DDCC;
+}
+
+.first p {
+  background-color: #F5CBA7;
+}
+
+.shelter p a {
+  font-weight: bold;
+}
+
+.first p a {
+  font-style: italic;
+}
+
+.name {
+  color: #48C9B0;
+  font-family: fantasy;
+}
+
+.mumford {
+  color: #F4D03F;
+  font-style: italic;
+}
