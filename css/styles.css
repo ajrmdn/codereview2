@@ -42,3 +42,8 @@
   color: #F4D03F;
   font-style: italic;
 }
+
+img {
+  width: 20%;
+  height: auto;
+}
